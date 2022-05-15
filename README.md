@@ -1,7 +1,7 @@
 # Hr-Analystics-Dashboard
 Have a look on the live dashboard https://app.powerbi.com/view?r=eyJrIjoiZjY4MzJiMjUtMzMyMy00MmQzLWI1NDYtNzRiYmVmNDkxM2U1IiwidCI6IjI3ZGMxNTNhLTZhNjEtNDUwZS1iOTQ4LTYzY2NjNTQ4ZjVmNSJ9
 
-This Dashboard analysis the reasons due to which the employees are leaving the company.
+This Dashboard analysis the reasons due to which the employees are leaving the company. Dax functionality is used to calculate different measures and columns.
 
 Some of the reasons are as follows:
 

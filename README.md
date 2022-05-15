@@ -9,4 +9,4 @@ Some of the reasons are as follows:
 
 * Employees who are working for less than 7 years and not prooted have 24% probablity of leaving the company.
 
-* The totral attrition rate of the comppany is 23-24%.
+* The totral attrition rate of the company is 23-24%.
